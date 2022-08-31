@@ -13,12 +13,15 @@ html, body, #root {
 
 body {
     background-color: #F8FDFF;
+    font-family: 'Poppins', sans-serif;
 }
 
 button {
     background-color: none;
     border: none;
     outline: none;  
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
 }
 
 a {
