@@ -11,6 +11,7 @@ const Main = () => {
       </S.TextsDiv>
       <S.ImagesDiv>
        <img src={womanImg} alt="woman doing research"/>
+       
       </S.ImagesDiv>
       
     </S.MainStyle> 

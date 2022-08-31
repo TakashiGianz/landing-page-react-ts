@@ -1,6 +1,6 @@
 import * as S from "./styles"
 import Logo from "../../molecules/Logo";
-import Menu from "../Menu";
+import Menu from "../../molecules/Menu";
 import Button from "../../atoms/Primary-Button";
 
 

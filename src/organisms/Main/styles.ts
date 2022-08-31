@@ -35,7 +35,8 @@ export const TextsDiv = styled.div`
 
 export const ImagesDiv = styled.div`
   img{
-    margin: auto;
+    margin-left: 108px;
+    padding-top: 70px;
     display: block;
   }
 `
