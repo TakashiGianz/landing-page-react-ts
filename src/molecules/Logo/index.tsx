@@ -1,10 +1,12 @@
 import LogoHero from "../../../public/logoKreed.svg";
-
+import * as S from "./styles"
 
 const Logo = () => {
   return (
     <div>
-      <img src={LogoHero} alt="Logo" />{" "}
+      <a href="#">
+      <S.LogoClick src={LogoHero} alt="Logo" />{" "}
+      </a>
     </div>
   );
 };
